@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+}
+
+.btn-container {
+    /* bottom: 5px; */
+    display: flex;
+    /* flex-direction: column;
+    */
+    justify-content: center;
+
+
+}
+
+.div {
+    height: 180px;
+    width: 180px;
+    border-radius: 18px;
+    margin: 1.5rem;
+    border: 4px solid black;
+}
+
+.red {
+    background-color: #f35937;
+}
+
+.green {
+    background-color: #35de3e;
+}
+
+.yellow {
+    background-color: #d5e63c;
+}
+
+.blue {
+    background-color: rgb(73, 63, 212);
+}
+
+.flash {
+    background-color: white;
+}
+
+.userflash {
+    background-color: green;
+}
